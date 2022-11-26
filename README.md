@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a second year student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.<br>Currently<br><br>Interested in:<br><br>Front end technologies<br>Web and Mobile
+i'm a second year student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.<br>Currently i'm on my way learning Nextjs and Flutter<br><br>Interested in:<br><br>Front end technologies<br>Web and Mobile
 
 
 ## 🌐 Socials:
